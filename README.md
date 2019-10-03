@@ -40,3 +40,20 @@ At the confirmation is where you make calls to your backend to submit data
 (b)npm i material-ui-installing Material UI Dependency.You can bring in material UI Components and use them as reactComponents.
 
 ```
+
+```
+You add properties to the component when you want to access data from the state into that particular component.
+
+A class may have properties and methods ..exactly what is passed pressively to the components as props.
+
+```
+
+**ExtensionsShortCut**
+
+```
+rce tab - creating react class Component.
+
+
+
+
+```
